@@ -1,6 +1,6 @@
 Summary:	Breton dictionary for aspell
-Summary(br.UTF-8):   Geriadur brezhonek evit aspell
-Summary(pl.UTF-8):   Bretoński słownik dla aspella
+Summary(br.UTF-8):	Geriadur brezhonek evit aspell
+Summary(pl.UTF-8):	Bretoński słownik dla aspella
 Name:		aspell-br
 Version:	0.50
 %define	subv	2

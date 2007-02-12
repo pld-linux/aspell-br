@@ -1,6 +1,6 @@
 Summary:	Breton dictionary for aspell
-Summary(br):	Geriadur brezhonek evit aspell
-Summary(pl):	BretoÒski s≥ownik dla aspella
+Summary(br.UTF-8):   Geriadur brezhonek evit aspell
+Summary(pl.UTF-8):   Breto≈Ñski s≈Çownik dla aspella
 Name:		aspell-br
 Version:	0.50
 %define	subv	2
@@ -18,11 +18,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Breton dictionary (i.e. word list) for aspell.
 
-%description -l br
+%description -l br.UTF-8
 Geriadur brezhonek evit aspell.
 
-%description -l pl
-BretoÒski s≥ownik (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+Breto≈Ñski s≈Çownik (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}

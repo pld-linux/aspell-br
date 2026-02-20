@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Bretoński słownik dla aspella
 Name:		aspell-br
 Version:	0.50
 %define	subv	2
-Release:	3
+Release:	4
 Epoch:		1
 License:	GPL
 Group:		Applications/Text
